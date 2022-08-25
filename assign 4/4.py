@@ -1,0 +1,1 @@
+print(len(input("jomle khod ra vared konid: \n").split()))
