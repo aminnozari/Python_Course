@@ -11,11 +11,5 @@ git clone https://github.com/aminnozari/Python_Course.git
 # Contributing
 If you find an issue or have a suggestion, please feel free to open an issue or create a pull request.
 
-# Acknowledgments
-We gratefully acknowledge the contributions of the Python community and the many open-source libraries that make this course possible.
-
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 # Contact
 If you have any questions or concerns about the course, please contact Amin Nozari amin.nozari1395@gmail.com.
